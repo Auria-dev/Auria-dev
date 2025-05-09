@@ -1,10 +1,8 @@
-![banner](text2.gif)
-
 ### One day, I will return to you
 
 <br>
 
-I code in C, C#, and Python.<br>
+I code in C, C#, Java and Python.<br>
 I also know a bit of C++, PHP and JS
 
 <br>
