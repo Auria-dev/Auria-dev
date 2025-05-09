@@ -11,6 +11,6 @@ I also know a bit of C++, PHP and JS
 
 <br>
 
-You can contact me on Discord via ```@nitaki.```
+You can contact me on Discord via ```@auriaaaaa```
 
 <img align="right" src="https://komarev.com/ghpvc/?username=nitaki-dev&color=ff69b4">
