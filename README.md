@@ -1,9 +1,10 @@
 Low level programmer<br>
 <br>
-codes mainly in C<br>
-previously used C#, Java and Python<br>
-as well as a bit of C++, PHP, SQL and JS<br>
+i mainly code in c, and i like building things from scratch. <br>
+i am currently working on a software renderer along with a cross platform abstraction layer (Win32 and X11). <br>
+sometimes i mess with web tech, shaders, and game frameworks for fun. <br>
 <br>
-you can contact me on discord via ```@auriaaaaa``` or via mail at `contact@auria-dev.com`
+you can contact me via mail at `contact@auria-dev.com`<br>
+or dm me on discord ```@auriaaaaa```<br> 
 <br><br>
 <img align="right" src="https://komarev.com/ghpvc/?username=auria-dev&color=ff69b4">
